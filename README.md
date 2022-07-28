@@ -12,6 +12,6 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 
 <p align="left">
   <a href="https://github.com/XianChen1996/XianChen1996/">
-    <img src="https://komarev.com/ghpvc/?username=XianChen1996&color=blueviolet" alt="XianChen1996" />
+    <img src="https://komarev.com/ghpvc/?username=XianChen1996&color=blueviolet&style=for-the-badge" alt="XianChen1996" />
   
   </p>
