@@ -7,7 +7,10 @@
 
 ****
 
-<!-- img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+<!-- 在需要进行分割的两行之间添加单独的一行内容：
+
+****
+img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
 M9gbBd9nbDrOTu1Mqx 这一段换成
 直接复制粘贴
 <iframe src="https://giphy.com/embed/bre9Mgy3vkAO7WpwhK" width="480" height="265" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/swaps4-bre9Mgy3vkAO7WpwhK">via GIPHY</a></p>
