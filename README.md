@@ -2,6 +2,6 @@
 
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/MGKGJ4QImuPCg" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MGKGJ4QImuPCg">via GIPHY</a></p>
-  <img src="https://giphy.com/embed/MGKGJ4QImuPCg" width="100"/>
+  <img src="https://giphy.com/embed/26n3JlvCHL3d9DAPu" width="480" height="335" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wave-hokusai-26n3JlvCHL3d9DAPu">via GIPHY</a></p>
+
  </div>
