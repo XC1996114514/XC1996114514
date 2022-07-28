@@ -14,4 +14,13 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
   <a href="https://github.com/XianChen1996/XianChen1996/">
     <img src="https://komarev.com/ghpvc/?username=XianChen1996&color=blueviolet&style=for-the-badge" alt="XianChen1996" />
   
+   <a href="https://github.com/XianChen1996">
+    <img height="20" src="https://img.shields.io/github/followers/XianChen1996?label=follow&logo=github&style=flat" />
+  </a>   
+    
+    
   </p>
+
+  <!--添加计数标签
+https://github.com/antonkomarev/github-profile-views-counter   要改的改img后面加&
+-->
