@@ -47,7 +47,7 @@ https://github.com/antonkomarev/github-profile-views-counter   要改的改img�
 
 <h4 align="left">:crescent_moon: Exploring Machine Learning and FUll STACK</h4>
 
-
+<h4 align="left">:soccer: Hobby: Football/ Animate</h4>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XianChen1996&show_icons=true&theme=cobalt
 )](https://github.com/anuraghazra/github-readme-stats)
