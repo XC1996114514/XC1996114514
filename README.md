@@ -15,7 +15,9 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 直接复制粘贴
 <iframe src="https://giphy.com/embed/bre9Mgy3vkAO7WpwhK" width="480" height="265" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/swaps4-bre9Mgy3vkAO7WpwhK">via GIPHY</a></p>
 
- 中的bre9Mgy3vkAO7WpwhK -->
+ 中的bre9Mgy3vkAO7WpwhK 换成你想要的图片的embed的后缀
+ 
+--> 
 
 <p align="left">
   <a href="https://github.com/XianChen1996/XianChen1996/">
