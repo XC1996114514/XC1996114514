@@ -45,21 +45,23 @@ https://github.com/antonkomarev/github-profile-views-counter   要改的改img�
 
 
 
+
+
 <h4 align="left">:telescope: I’m studying as a Software Engineer and contributing to frontend and backend for building web applications.</h4>
 
 <h4 align="left">:crescent_moon: Exploring Machine Learning and FUll STACK</h4>
 
-<h4 align="left">:bicyclist: Career life: 2015-2019 UESTC  Optic-electronic  </h4>
+<h4 align="left">:bicyclist: Career life: 2015-2019 UESTC   Optical-electronic  </h4>
 
 <h4 align="left">:bicyclist: Career life: 2022- NAIST</h4>
 
 <h4 align="left"> :earth_asia: Language： Chinese:point_up_2:  English:fist_raised:   日本語:fist_oncoming:　</h4>
 
-<h4 align="left">:soccer: Hobby: Football/Animate/Photo/Read Books/Surfing The Internet/Cooking</h4>
+<h4 align="left">:soccer: Hobby: Football /Animate /Photo /Read Books /Surfing The Internet /Cooking</h4>
 
 <h4 align="left">:notebook_with_decorative_cover: 頭を冷やした方がいいよ</h4>
 
-<h4 align="left">:flags:Animate:EVA/Puella Magi Madoka Magica/Gundam/Demon Slayer: Kimetsu no Yaiba/THE IDOLM@STER/Date A Live</h4>
+<h4 align="left">:flags: Animate : EVA / Puella Magi Madoka Magica / Gundam / Demon Slayer: Kimetsu no Yaiba / THE IDOLM@STER / Date A Live</h4>
 
 
 
