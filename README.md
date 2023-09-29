@@ -24,7 +24,7 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
     <img src="https://komarev.com/ghpvc/?username=XC1996114514&color=blueviolet&style=flat" alt="XC1996114514" />
   
    <a href="https://github.com/XC1996114514">
-    <img height="20" src="https://img.shields.io/github/followers/XianChen1996?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/XC1996114514?label=follow&logo=github&style=flat" />
   </a>   
 
     
