@@ -63,6 +63,8 @@ https://github.com/antonkomarev/github-profile-views-counter   要改的改img�
 
 <h4 align="left">:flags: Animate : EVA / Puella Magi Madoka Magica / Gundam / Demon Slayer: Kimetsu no Yaiba / THE IDOLM@STER / Date A Live</h4>
 
+<h4 align="left">:Blog website:https://gitpress.io/u/1964/</h4>
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XianChen1996&show_icons=true&theme=cobalt
