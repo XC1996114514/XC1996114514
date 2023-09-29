@@ -20,10 +20,11 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 --> 
 
 <p align="left">
-  <a href="https://github.com/XianChen1996/XianChen1996/">
-    <img src="https://komarev.com/ghpvc/?username=XianChen1996&color=blueviolet&style=flat" alt="XianChen1996" />
+  <a href="https://github.com/XC1996114514/XC1996114514/">
+    <img src="https://komarev.com/ghpvc/?username=XC1996114514&color=blueviolet&style=flat" alt="XC1996114514" />
   
-  
+   <a href="https://github.com/XC1996114514">
+    <img height="20" src="https://img.shields.io/github/followers/XianChen1996?label=follow&logo=github&style=flat" />
   </a>   
 
     
