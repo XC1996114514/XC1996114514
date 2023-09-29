@@ -63,7 +63,7 @@ https://github.com/antonkomarev/github-profile-views-counter   要改的改img�
 
 <h4 align="left">:flags: Animate : EVA / Puella Magi Madoka Magica / Gundam / Demon Slayer: Kimetsu no Yaiba / THE IDOLM@STER / Date A Live</h4>
 
-<h4 align="left">:notebook_with_decorative_cover: Blog website: [https://gitpress.io/u/1964/](you can find my Japan LIFE in this blog)</h4>
+<h4 align="left">:notebook_with_decorative_cover: Blog website: https://gitpress.io/u/1964/  you can find my Japan LIFE in this blog </h4>
 
 
 
