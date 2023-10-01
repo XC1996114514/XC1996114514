@@ -67,12 +67,12 @@ https://github.com/antonkomarev/github-profile-views-counter   要改的改img�
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XianChen1996&show_icons=true&theme=cobalt
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XC1996114514&show_icons=true&theme=cobalt
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XianChen1996&exclude_repo=github-slideshow)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XC1996114514&exclude_repo=github-slideshow)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
