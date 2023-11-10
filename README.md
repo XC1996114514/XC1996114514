@@ -39,9 +39,9 @@ https://github.com/antonkomarev/github-profile-views-counter   要改的改img�
 
   
   
-### :mount_fuji: About Me :
+### :mount_fuji: About Me はじめに:
   
-<h4 align="middle">A passionate developer from NAIST</h4>
+<h4 align="middle">A passionate developer from NAIST　NAIST出身の熱意ある開発者　</h4>
 
 
 
