@@ -1,3 +1,7 @@
+
+
+          
+
 <!-- 参考网站 https://zenn.dev/yutakatay/articles/kirakira-github-profile-->
 
 
@@ -83,15 +87,17 @@ https://github.com/antonkomarev/github-profile-views-counter   要改的改img�
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">1.Basic WEB develop</h4>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          
+          
 <h4 align="left">2.Basic database</h4>
 
- </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+
  
 <h4 align="left">3.Basic Linux</h4>
 
 <h4 align="left">4.Machine learning</h4>
-<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="pytorch" width="40" height="20"/> </a> 
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+
 
 
 <h4 align="left">Connect with me: </h4>
