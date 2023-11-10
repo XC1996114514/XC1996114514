@@ -86,7 +86,7 @@ https://github.com/antonkomarev/github-profile-views-counter   要改的改img�
 ****
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">1.Basic WEB develop</h4>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" />
 
           
           
