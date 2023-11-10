@@ -90,7 +90,7 @@ https://github.com/antonkomarev/github-profile-views-counter   要改的改img�
 <h4 align="left">3.Basic Linux</h4>
 
 <h4 align="left">4.Machine learning</h4>
-<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="pytorch" width="40" height="100"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="pytorch" width="40" height="20"/> </a> 
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 
 
