@@ -61,7 +61,7 @@ https://github.com/antonkomarev/github-profile-views-counter   要改的改img�
 
 <h4 align="left">:bicyclist: Career life: 2022- NAIST 光メディアインタフェース研究室（向川研）  </h4>
 
-<h4 align="left"> :earth_asia: Language： Chinese:point_up_2:  English:fist_raised: Toeic:795 Toefl：102  日本語:fist_oncoming:　</h4>
+<h4 align="left"> :earth_asia: Language： Chinese:point_up_2:  English:fist_raised: Toeic:795 Toefl:102  日本語:fist_oncoming:　</h4>
 
 <h4 align="left">:soccer: Hobby: Football /Animate /Photo /Read Books /Surfing The Internet /Cooking</h4>
 
