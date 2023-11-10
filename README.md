@@ -132,7 +132,12 @@ https://github.com/antonkomarev/github-profile-views-counter   要改的改img�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
 </div>                     
 
-
+****
+<h3 align="left">Scholarship:</h3>
+****
+<h3 align="left">Other platform:</h3>
+<h4 align="left">paiza：chenxianfio96[AT]gmail.com  Replace [AT] with @ </h4>
+****
 <h4 align="left">Connect with me: </h4>
 <p align="left">
   
