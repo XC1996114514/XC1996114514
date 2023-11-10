@@ -48,11 +48,12 @@ https://github.com/antonkomarev/github-profile-views-counter   要改的改img�
 
 
 <h4 align="left">:telescope: I’m studying as a Software Engineer and contributing to frontend and backend for building web applications.</h4>
+
 <h4 align="left">:telescope:私はソフトウェア エンジニアとして勉強しており、Web アプリケーションを構築するためのフロントエンドとバックエンドに貢献しています。</h4>
 
 <h4 align="left">:crescent_moon: Exploring Machine Learning and FUll STACK</h4>
 <h4 align="left">:crescent_moon: 機械学習とフルスタックの探求</h4>
-<h4 align="left">:bicyclist: Career life: 2015-2019 UESTC   Optical-electronic光電子  </h4>
+<h4 align="left">:bicyclist: Career life: 2015-2019 UESTC   Optical-electronic 光電子  </h4>
 
 <h4 align="left">:bicyclist: Career life: 2022- NAIST 光メディアインタフェース研究室（向川研）  </h4>
 
