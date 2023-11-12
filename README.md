@@ -41,7 +41,7 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
   
 ### :mount_fuji: About Me はじめに:
   
-<h4 align="middle">:last_quarter_moon_with_face:A passionate developer from NAIST　NAIST出身の熱意ある開発者　:first_quarter_moon_with_face:</h4>
+<h4 align="middle">:last_quarter_moon_with_face:A passionate developer from NAIST　NAIST出身の熱意ある開発者:first_quarter_moon_with_face:</h4>
 
 
 
@@ -52,8 +52,10 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 <h4 align="left">:telescope: 私はソフトウェア エンジニアとして勉強しており、Web アプリケーションを構築するためのフロントエンドとバックエンドに貢献しています。</h4>
 
 <h4 align="left">:neckbeard: Exploring Machine Learning and FUll STACK</h4>
+
 <h4 align="left">:neckbeard: 機械学習とフルスタックの探求</h4>
-<h4 align="left">:bicyclist: Career life: 2015-2019 UESTC   Optical-electronic 光電子  </h4>
+
+<h4 align="left">:bicyclist: Career life: 2015-2019 UESTC Optical-electronic 光電子  </h4>
 
 <h4 align="left">:bicyclist: Career life: 2022- NAIST 光メディアインタフェース研究室（向川研）  </h4>
 
