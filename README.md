@@ -1,8 +1,5 @@
 
-
-          
-
-<!-- 参考网站 https://zenn.dev/yutakatay/articles/kirakira-github-profile-->
+<!-- 注释：参考网站 https://zenn.dev/yutakatay/articles/kirakira-github-profile-->
 
 
 <div id="header" align="center">
@@ -10,7 +7,7 @@
 </div>
 
 ****
-
+注释：https://gist.github.com/rxaviers/7360908  --->用来做表情包：eg:<h4 align="left">:telescope:
 <!-- 在需要进行分割的两行之间添加单独的一行内容：
 
 ****
@@ -36,9 +33,7 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
     
   </p>
 
-  <!--添加计数标签
-https://github.com/antonkomarev/github-profile-views-counter   要改的改img后面加&
--->
+  <!--注释：添加计数标签 https://github.com/antonkomarev/github-profile-views-counter   要改的改img后面加&-->
 
 
   
@@ -71,8 +66,8 @@ https://github.com/antonkomarev/github-profile-views-counter   要改的改img�
 
 <h4 align="left">:notebook_with_decorative_cover: Blog website: [(https://gitpress.io/u/1964/)       ](https://gitpress.io/@xc1996114514/)</h4>
 
-<h4 align="left">:notebook_with_decorative_cover:  you can find my Japan life in this blog </h4>
-
+<h4 align="left">:notebook_with_decorative_cover:  you can find my Japan life in this blog ,I am happy you read it </h4>
+<h4 align="left">:notebook_with_decorative_cover:  このブログで私の日本での生活を知ることができます</h4>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XC1996114514&show_icons=true&theme=cobalt
 )](https://github.com/anuraghazra/github-readme-stats)
