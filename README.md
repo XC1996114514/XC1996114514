@@ -1,16 +1,13 @@
+<!-- 注释：0：参考网站 https://zenn.dev/yutakatay/articles/kirakira-github-profile -->
+<!-- 注释：1：https://gist.github.com/rxaviers/7360908 用来做表情包：eg:'<h4 align="left">:telescope:' -->
 
-<!-- 注释：参考网站 https://zenn.dev/yutakatay/articles/kirakira-github-profile-->
-<!-- 注释：1：https://gist.github.com/rxaviers/7360908  --->用来做表情包：eg:'<h4 align="left">:telescope:'
+<!-- 2：在需要进行分割的两行之间添加单独的一行内容： **** -->
 
-2：在需要进行分割的两行之间添加单独的一行内容： ****
-
-3：img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+<!-- 3：img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
 M9gbBd9nbDrOTu1Mqx 这一段换成
 直接复制粘贴
 <iframe src="https://giphy.com/embed/bre9Mgy3vkAO7WpwhK" width="480" height="265" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/swaps4-bre9Mgy3vkAO7WpwhK">via GIPHY</a></p>
-
- 中的bre9Mgy3vkAO7WpwhK 换成你想要的图片的embed的后缀
- --> 
+中的bre9Mgy3vkAO7WpwhK 换成你想要的图片的embed的后缀 -->
 
 
 
