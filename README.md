@@ -55,9 +55,9 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 
 <h4 align="left">:neckbeard: 機械学習とフルスタックの探求</h4>
 
-<h4 align="left">:bicyclist: Career life: 2015-2019 UESTC Optical-electronic 光電子  </h4>
+<h4 align="left">:mahjong:Career life: 2015-2019 UESTC Optical-electronic 光電子  </h4>
 
-<h4 align="left">:bicyclist: Career life: 2022- NAIST 光メディアインタフェース研究室（向川研）  </h4>
+<h4 align="left">:japan: Career life: 2022- NAIST 光メディアインタフェース研究室（向川研）  </h4>
 
 <h4 align="left"> :earth_asia: Language： Chinese:point_up_2:  English:fist_raised: Toeic:795 Toefl:102  日本語:fist_oncoming:　</h4>
 
@@ -65,7 +65,7 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 
 <h4 align="left">:soccer:趣味: サッカー /アニメイト /写真 /本を読む /ネットサーフィン /料理 </h4>
 
-<h4 align="left">:flags: Animate : EVA / Puella Magi Madoka Magica / Gundam / Demon Slayer: Kimetsu no Yaiba / THE IDOLM@STER / Date A Live</h4>
+<h4 align="left">:watermelon: Animate : EVA / Puella Magi Madoka Magica / Gundam / Demon Slayer / THE IDOLM@STER / Date A Live</h4>
 
 <h4 align="left">:notebook_with_decorative_cover: Blog website: [(https://gitpress.io/u/1964/)       ](https://gitpress.io/@xc1996114514/)</h4>
 
