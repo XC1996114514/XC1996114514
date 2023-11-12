@@ -41,7 +41,7 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
   
 ### :mount_fuji: About Me はじめに:
   
-<h4 align="middle">A passionate developer from NAIST　NAIST出身の熱意ある開発者　</h4>
+<h4 align="middle">:last_quarter_moon_with_face:A passionate developer from NAIST　NAIST出身の熱意ある開発者　:first_quarter_moon_with_face:</h4>
 
 
 
