@@ -93,7 +93,7 @@ https://github.com/antonkomarev/github-profile-views-counter   要改的改img�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
 </div>
-
+<h5 align="left">1.1Backend_storehouse </h5>
 
 
                     
@@ -103,37 +103,42 @@ https://github.com/antonkomarev/github-profile-views-counter   要改的改img�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  width="40" height="40" />
 </div>                            
-          
+<h5 align="left">1.2Frontend_storehouse</h5>  
+
+
 <h4 align="left">2.Basic database</h4>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-          
+<h5 align="left">2.Basic database_storehouse</h5>            
 
  
 <h4 align="left">3.Basic Linux</h4>
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg" width="40" height="40"/>
-          
+<h5 align="left">2.Basic Linux_storehouse</h5>  
+
+
 <h4 align="left">4.Machine learning</h4>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"  width="40" height="40" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"  width="40" height="40" />       
 </div> 
-
+<h5 align="left">4.Machine learning_storehouse</h5>  
 
 <h4 align="left">5.Other tools</h4>
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" height="40" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="40" height="40"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
 </div>                     
+<h5 align="left">5.Other tools learning_storehouse</h5>  
 
 ****
 <h3 align="left">Scholarship:</h3>
+2022-2023: Jasso scholarship
 
 ****
 <h3 align="left">Other platform:</h3>
