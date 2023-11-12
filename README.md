@@ -7,18 +7,18 @@
 </div>
 
 ****
-注释：https://gist.github.com/rxaviers/7360908  --->用来做表情包：eg:<h4 align="left">:telescope:
-<!-- 在需要进行分割的两行之间添加单独的一行内容：
 
-****
-img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+<!-- 注释：1：https://gist.github.com/rxaviers/7360908  --->用来做表情包：eg:<h4 align="left">:telescope:
+
+2：在需要进行分割的两行之间添加单独的一行内容： ****
+
+3：img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
 M9gbBd9nbDrOTu1Mqx 这一段换成
 直接复制粘贴
 <iframe src="https://giphy.com/embed/bre9Mgy3vkAO7WpwhK" width="480" height="265" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/swaps4-bre9Mgy3vkAO7WpwhK">via GIPHY</a></p>
 
  中的bre9Mgy3vkAO7WpwhK 换成你想要的图片的embed的后缀
- 
---> 
+ --> 
 
 <p align="left">
   <a href="https://github.com/XC1996114514/XC1996114514/">
@@ -50,8 +50,8 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 
 <h4 align="left">:telescope:私はソフトウェア エンジニアとして勉強しており、Web アプリケーションを構築するためのフロントエンドとバックエンドに貢献しています。</h4>
 
-<h4 align="left">:crescent_moon: Exploring Machine Learning and FUll STACK</h4>
-<h4 align="left">:crescent_moon: 機械学習とフルスタックの探求</h4>
+<h4 align="left">:neckbeard: Exploring Machine Learning and FUll STACK</h4>
+<h4 align="left">:neckbeard:機械学習とフルスタックの探求</h4>
 <h4 align="left">:bicyclist: Career life: 2015-2019 UESTC   Optical-electronic 光電子  </h4>
 
 <h4 align="left">:bicyclist: Career life: 2022- NAIST 光メディアインタフェース研究室（向川研）  </h4>
