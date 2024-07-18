@@ -73,12 +73,6 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 <h4 align="left">:notebook_with_decorative_cover:  you can find my Japan life in this blog ,I am happy you read it </h4>
 <h4 align="left">:notebook_with_decorative_cover:  このブログで私の日本での生活を知ることができます</h4>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XC1996114514&show_icons=true&theme=cobalt
-)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XC1996114514&exclude_repo=github-slideshow)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
