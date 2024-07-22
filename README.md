@@ -73,7 +73,7 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 <h4 align="left">:notebook_with_decorative_cover:  you can find my Japan life in this blog ,I am happy you read it </h4>
 <h4 align="left">:notebook_with_decorative_cover:  このブログで私の日本での生活を知ることができます</h4>
 
-
+![CHEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=XC1996114514&show_icons=true&theme=radical)
 
 
 ****
