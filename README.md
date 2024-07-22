@@ -78,63 +78,60 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 
 ****
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">1.Basic WEB develop</h4>
 
-<h5 align="left">1.1Backend </h5>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"  width="40" height="40"/>        
+<h4 align="left">1. Basic Web Development</h4>
+
+<h5 align="left">1.1 Backend</h5>
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
 </div>
-<h5 align="left">1.1Backend_storehouse </h5>
 
+<h5 align="left">1.2 Backend Storehouse</h5>
 
-                    
-<h5 align="left">1.2Frontend</h5>  
-<div>
+<h5 align="left">1.3 Frontend</h5>
+<div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  width="40" height="40" />
-</div>                            
-<h5 align="left">1.2Frontend_storehouse</h5>  
+<h5 align="left">1.4 Frontend Storehouse</h5>
 
+<h4 align="left">2. Basic Database</h4>
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+</div>
 
-<h4 align="left">2.Basic database</h4>
+<h5 align="left">2.1 Database Storehouse</h5>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-<h5 align="left">2.Basic database_storehouse</h5>            
+<h4 align="left">3. Basic Linux</h4>
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg" width="40" height="40"/>
+</div>
 
- 
-<h4 align="left">3.Basic Linux</h4>
+<h5 align="left">3.1 Linux Storehouse</h5>
 
+<h4 align="left">4. Machine Learning</h4>
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" />       
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg" width="40" height="40"/>
-<h5 align="left">2.Basic Linux_storehouse</h5>  
+<h5 align="left">4.1 Machine Learning Storehouse</h5>
 
+<h4 align="left">5. Other Tools</h4>
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+</div>
 
-<h4 align="left">4.Machine learning</h4>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"  width="40" height="40" />       
-</div> 
-<h5 align="left">4.Machine learning_storehouse</h5>  
-
-<h4 align="left">5.Other tools</h4>
-
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="40" height="40"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-
-</div>                     
-<h5 align="left">5.Other tools learning_storehouse</h5>  
-
-
+<h5 align="left">5.1 Other Tools Learning Storehouse</h5>
 
 
 
