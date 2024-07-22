@@ -82,7 +82,7 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 <h4 align="left">1. Basic Web Development</h4>
 
 <h5 align="left">1.1 Backend</h5>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; gap: 10px; align-items: center; margin-bottom: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
@@ -91,7 +91,7 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 <h5 align="left">1.2 Backend Storehouse</h5>
 
 <h5 align="left">1.3 Frontend</h5>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; gap: 10px; align-items: center; margin-bottom: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
@@ -101,21 +101,21 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 <h5 align="left">1.4 Frontend Storehouse</h5>
 
 <h4 align="left">2. Basic Database</h4>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; gap: 10px; align-items: center; margin-bottom: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
 </div>
 
 <h5 align="left">2.1 Database Storehouse</h5>
 
 <h4 align="left">3. Basic Linux</h4>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; gap: 10px; align-items: center; margin-bottom: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg" width="40" height="40"/>
 </div>
 
 <h5 align="left">3.1 Linux Storehouse</h5>
 
 <h4 align="left">4. Machine Learning</h4>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; gap: 10px; align-items: center; margin-bottom: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" />       
@@ -124,7 +124,7 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 <h5 align="left">4.1 Machine Learning Storehouse</h5>
 
 <h4 align="left">5. Other Tools</h4>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; gap: 10px; align-items: center; margin-bottom: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
