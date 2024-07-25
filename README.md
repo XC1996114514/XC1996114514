@@ -73,7 +73,9 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 <h4 align="left">:notebook_with_decorative_cover:  you can find my Japan life in this blog ,I am happy you read it </h4>
 <h4 align="left">:notebook_with_decorative_cover:  このブログで私の日本での生活を知ることができます</h4>
 
+[![Static Badge](https://img.shields.io/badge/homepage-gray?style=for-the-badge)](https://kazuto1011.github.io/) [![Static Badge](https://img.shields.io/badge/huggingface-gray?style=for-the-badge&logoColor=white)](https://huggingface.co/kazuto1011) [![Static Badge](https://img.shields.io/badge/google%20scholar-gray?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VnDvavYAAAAJ&hl=en)
 
+![](https://github-readme-stats.vercel.app/api?username=XC1996114514&show_icons=true&theme=transparent&hide_border=true&hide_rank=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XC1996114514&layout=compact&theme=transparent&hide_border=true)
 
 
 ****
@@ -140,7 +142,7 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 2022-2023: Jasso scholarship
 
 ****
-![CHEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=XC1996114514&show_icons=true&theme=highcontrast)
+
 
 
 
