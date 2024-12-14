@@ -60,7 +60,7 @@ M9gbBd9nbDrOTu1Mqx 这一段换成
 <h4 align="left">:japan: Career life: 2022-2024 NAIST 光メディアインタフェース研究室（向川研）  </h4>
 <h4 align="left">:japan: Career life: 2024- 東京大学 大学院工学系研究科電気系工学専攻（大石研）  </h4>
 
-<h4 align="left"> :earth_asia: Language： Chinese:point_up_2:  English:fist_raised: Toeic:795 Toefl:102  日本語:fist_oncoming:　</h4>
+<h4 align="left"> :earth_asia: Language： Chinese:point_up_2:  English:fist_raised: Toeic:865 Toefl:102  日本語:fist_oncoming:　</h4>
 
 <h4 align="left">:soccer: Hobby: Football /Animate /Photo /Read Books /Surfing The Internet /Cooking</h4>
 
